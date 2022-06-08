@@ -1,7 +1,11 @@
 # oculus-uiInteract
 
+This repo has files related to how can we do UI Interaction with Oculus.
 
-Follow me on other social networks too.
+More Details and code updating soon. 
+.
+
+**Follow me on other social networks too.**
 
 LinkedIn: https://www.linkedin.com/in/shreethaanu-raveendran-7a6275b2/
 
